@@ -1,0 +1,44 @@
+3400000030062 5151                       MB TRANS DOO    In?ija200618                                                                                                  MULTI E-BANK0
+220000000021300042                       MB TRANS DOO    In?ija00000007845535000042                                                                                                9
+220213000010901942                ADAMOVIÆ ALEKSANDAR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000750600                         20061801
+340000003213783560                     ARSOVSKI ZORAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000250000                         20061801
+205900100183082062                   BARUNAC SVETOZAR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003109050                         20061801
+170001020565300055                   BODEGRAJAC GORAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003737800                         20061801
+170001033620800006                     DIMIÆ SLOBODAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001340900                         20061801
+200000011159235721                 DORONJSKI MIROSLAV          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000030000                         20061801
+250220000284150018                      EGELIÆ BRANKO          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003736200                         20061801
+105000040560982843                  JAKIMOVSKI DRAGAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000090000                         20061801
+205900101055932391                    JOVANOVIÆ MILOŠ          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002474000                         20061801
+170001026768800031                     KAÈAREVIÆ SAŠA          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000037500                         20061801
+330520010222236639                      KAJIŠ DALIBOR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003735350                         20061801
+355000000537122205                     KLISARIÆ DRAGO          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001999250                         20061801
+160560010105134577                      KOLAR DALIBOR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000004028400                         20061801
+220293000001551798                     KOTUR MIROSLAV          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000004253350                         20061801
+205900102057362622                     KURJANOV PETAR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001612100                         20061801
+160560010099024062                      MARKOVIÆ MILE          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001870250                         20061801
+340000003212455436                 MIHALJEVIÆ DALIBOR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002577450                         20061801
+250147002003150032                 MILOVANOVIÆ STEFAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003224200                         20061801
+200000006409774184                   MILJEVIÆ MOMÈILO          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000015000                         20061801
+170001040811400015                     MIRKOVIÆ ZORAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003618150                         20061801
+250125002721150079                NEDELJKOVIÆ TIHOMIR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000230300                         20061801
+205900102058608684                    NIKOLIÆ LJUBIŠA          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001571800                         20061801
+200000004540882556                      NIKOLOV GORAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000230300                         20061801
+265000000071328472                 PETAKOV ALEKSANDAR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001415600                         20061801
+105000040820229893                     PETROVIÆ BOBAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003157400                         20061801
+160580010109269560                    PETROVIÆ NIKOLA          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003493600                         20061801
+250220002267150021                    PILIPOVIÆ DEJAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002813850                         20061801
+340000003112286446               SAVANOVIÆ DRAGAN - .          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002008700                         20061801
+205900100864557308                        SAVIÆ MARKO          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000112500                         20061801
+160580010070093491                       SEDLAN MARKO          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002502100                         20061801
+340000003236035942                    SMILJANIÆ DUŠAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000200000                         20061801
+160540010047289530                  STAMENKOVIÆ VLADA          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000045000                         20061801
+200000006186198011                  STEFANOVIÆ STEVAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000460600                         20061801
+170001038548100082                 STOJADINOVIÆ NENAD          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000285000                         20061801
+355000000543907161                    ŠKORIÆ BORISLAV          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002957400                         20061801
+265000000412961890                      ŠPIKA DANIJEL          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000003569650                         20061801
+160580010113687037                      ŠPIKA MILENKO          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001727250                         20061801
+115003816971814782                      ŠVEDIÆ DRAGAN          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000004375700                         20061801
+170001037903400058                  VELEDINOVIÆ ILIJA          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000002656950                         20061801
+355000320048843880               VOJINOVIÆ ALEKSANDAR          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000050000                         20061801
+170001046426100097             VOJINOVIÆ MIROSLAV - .          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000001641500                         20061801
+250220000078150051                         ZARIÆ SAŠA          0                                 OSTALI PRIHODI FIZICKIH LICA00000 241  0000000460600                         20061801
